@@ -1,2 +1,2 @@
 # Power Points
-- [MEGA - venner for evigt](MEGA.pptx)
+- [MEGA - venner for evigt](https://github.com/andersbe/powerpoints/raw/main/MEGA.pptx)https://github.com/andersbe/powerpoints/raw/main/MEGA.pptx)
